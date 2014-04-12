@@ -1,0 +1,84 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	padding-top:0px;
+	margin-top:0px;
+	font-size: 10pt;
+	color:#000000;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	text-decoration: none;
+	background:#CCCCCC;
+	text-align:center;
+}
+div.main
+{
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+
+
+background:#ffffff;
+width:800px;
+}
+div.header
+{
+width:800px;
+height:175px;
+background:#ffffff url(images/banner.png) no-repeat top left;
+}
+div.nav
+{
+padding-top:150px;
+width:800px;
+height:25;
+}
+div.content
+{
+padding-left:10px;
+padding-top:30px;
+padding-bottom:20px;
+background:#ffffff;
+width:795px;
+
+}
+div.footer
+{
+background:#CCCCCC;
+margin-left:auto;
+margin-right:auto;
+width:800px;
+padding-top:10px;
+text-align:center;
+margin-bottom:55px;
+}
+
+
+span.blackText
+{
+color:#000000;
+}
+
+/*Link styles*/
+a:link 
+{
+	color: #FFFFFF; border: 0px; font-family: arial, helvetica, sans-serif;  font-size: 11pt; text-decoration: none
+}
+
+
+a:visited 
+{
+	color: #FFFFFF;  font-family: arial, helvetica, sans-serif;  font-size: 11pt; text-decoration: none
+} 
+
+a:active 
+{
+	color: #FFFFFF;  font-family: arial, helvetica, sans-serif;  font-size: 11pt; text-decoration: none
+} 
+
+a:hover 
+{
+	color: #1199ff;  font-family: arial, helvetica, sans-serif;  font-size: 11pt; text-decoration: none
+}
