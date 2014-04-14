@@ -8,8 +8,7 @@
 
 <div class="main">
 	<div class="header">	
-		<div class="nav">
-		</div>
+		<h1>Instant Uploader</h1>
 	</div>
 
 
@@ -64,8 +63,6 @@
 	</div>
 
 </div>
-
-<div class="footer">Instant Uploader</div>
 
 </body>
 </html>
