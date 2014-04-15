@@ -1,4 +1,4 @@
 InstantUpload
 =============
 
-A simple secure PHP file uploader
+A simple PHP file uploader
